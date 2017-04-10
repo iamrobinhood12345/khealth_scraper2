@@ -2,14 +2,22 @@
 
 A scraper for restaurant health data.
 
+## Installation Instructions:
+
 ```bash
 pip install beautifulsoup4
-```
-
-```bash
 pip install requests
+pip install html5lib
 ```
 
+## Usage:
+
 ```bash
-pip install html5lib
+python scraper.py
+```
+
+## Test:
+
+```bash
+python scraper.py test
 ```
